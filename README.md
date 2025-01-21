@@ -187,8 +187,8 @@ MIT License
 [您的名字]
 
 ## 联系方式
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@Jinsmo](https://github.com/your-username)
+- QQ群：976416084
 
 这个 README.md：
 1. 提供了简洁的项目介绍
