@@ -187,7 +187,7 @@ MIT License
 [您的名字]
 
 ## 联系方式
-- GitHub: [@Jinsmo](https://github.com/your-username)
+- GitHub: [@Jinsmo](https://github.com/Jinsmo)
 - QQ群：976416084
 
 这个 README.md：
